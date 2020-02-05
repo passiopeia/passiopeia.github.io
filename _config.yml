@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Passiopeia is a Password Manager that synchronizes over all your devices and can be run on premise/self-hosted.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://passiopeia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  passiopeia
+twitter_username: passiopeia_oss
+github_username: passiopeia
 
 # Build settings
 theme: minima
