@@ -1,5 +1,7 @@
 language: ruby
 
+os: linux
+
 rvm:
   - 2.6
 
@@ -10,4 +12,6 @@ install:
   - bundle install
 
 script:
-  - bundle exec jekyll build
+  - bundle exec jekyll build --trace
+
+cache: bundler

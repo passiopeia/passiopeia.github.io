@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab90a7ea-7a31-4123-9f38-729cb38e8d7b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580927681903</updated>
-      <workItem from="1580927683534" duration="3129000" />
+      <workItem from="1580927683534" duration="3449000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Setup for Web Page">
       <created>1580928836369</created>
@@ -97,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580932322238</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adding Travis as a check">
+      <created>1580933228138</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580933228138</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,20 +115,21 @@
     <MESSAGE value="Basic Setup for Web Page" />
     <MESSAGE value="Refactoring for GH-Pages" />
     <MESSAGE value="Adding Twitter Handle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Twitter Handle" />
+    <MESSAGE value="Adding Travis as a check" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Travis as a check" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="134" key="CommitChangelistDialog2" timestamp="1580932321932">
+    <state x="588" y="134" key="CommitChangelistDialog2" timestamp="1580933227827">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
-    <state x="588" y="134" key="CommitChangelistDialog2/0.23.1920.1000@0.23.1920.1000" timestamp="1580932321932" />
+    <state x="588" y="134" key="CommitChangelistDialog2/0.23.1920.1000@0.23.1920.1000" timestamp="1580933227827" />
     <state x="377" y="152" width="1200" height="760" key="DiffContextDialog" timestamp="1580929331464">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
     <state x="377" y="152" width="1200" height="760" key="DiffContextDialog/0.23.1920.1000@0.23.1920.1000" timestamp="1580929331464" />
-    <state x="577" y="272" key="Vcs.Push.Dialog.v2" timestamp="1580932329801">
+    <state x="577" y="272" key="Vcs.Push.Dialog.v2" timestamp="1580933229552">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
-    <state x="577" y="272" key="Vcs.Push.Dialog.v2/0.23.1920.1000@0.23.1920.1000" timestamp="1580932329801" />
+    <state x="577" y="272" key="Vcs.Push.Dialog.v2/0.23.1920.1000@0.23.1920.1000" timestamp="1580933229552" />
   </component>
 </project>
