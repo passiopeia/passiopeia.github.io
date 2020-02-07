@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab90a7ea-7a31-4123-9f38-729cb38e8d7b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -127,10 +132,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Travis Setup with caching" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="134" key="CommitChangelistDialog2" timestamp="1580933227827">
+    <state x="588" y="134" key="CommitChangelistDialog2" timestamp="1581117539005">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
-    <state x="588" y="134" key="CommitChangelistDialog2/0.23.1920.1000@0.23.1920.1000" timestamp="1580933227827" />
+    <state x="588" y="134" key="CommitChangelistDialog2/0.23.1920.1000@0.23.1920.1000" timestamp="1581117539005" />
     <state x="377" y="152" width="1200" height="760" key="DiffContextDialog" timestamp="1580929331464">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
